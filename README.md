@@ -17,7 +17,7 @@ Jiahong</a></h1>
 
 - 📝 I need to find a place to regularly write articles on 
 
-- 💬 Ask me about **Machine Learning & Data Science**
+- 💬 Ask me about **Data Science & Aviation**
 
 - 📫 How to reach me **bill.qjh@gmail.com**
 
