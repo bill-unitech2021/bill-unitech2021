@@ -9,19 +9,16 @@ Jiahong</a></h1>
 </a>
 
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently studying at <a href="https://www.maastrichtuniversity.nl/" target="blank">Maastricht University</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Flight Delay Prediction & Revenue Management
 
-- 🤝 I’m available for freelancing.
+- 🌱 I’m currently learning Logistics && Supplychain Management <a href="https://github.com/topics/revenue-management" target="blank">#RevenueManagement</a>
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 📝 I need to find a place to regularly write articles on 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 💬 Ask me about **Machine Learning & Data Science**
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 📫 How to reach me **bill.qjh@gmail.com**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+- 📄 I will add a personal CV page later
