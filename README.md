@@ -38,7 +38,7 @@ Jiahong</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCtU_gOiBfRhC-Pi1rJ-fRUA">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-			<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+			<img src="https://icons8.com/icon/115648/resume" ></a>
       </div>
 
 </p>
