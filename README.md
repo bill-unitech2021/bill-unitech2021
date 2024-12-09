@@ -44,7 +44,7 @@ Jiahong</a></h1>
 </p>
 
 
-<h3 align="left"> Open Soruce & Projects (In Progres):</h3>
+<h3 align="left"> Open Soruce & Projects (In Progres/To be established):</h3>
 
 | Topic  | Summary |
 | ------------- | ------------- |
