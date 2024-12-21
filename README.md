@@ -9,7 +9,7 @@ Jiahong</a></h1>
 </a>
 
 - 🔭 I’m currently studying at <a href="https://www.frankfurt-university.de/" target="blank">Frankfurt University of Applied Science</a> as PhD Candidate
-- 🌱 I’m currently Working on Flight Delay Prediction & Revenue Management
+- 🌱 I’m currently Working on Air Cargo Logistics & Revenue Management
 - 🌱 I’m currently learning Logistics && Supplychain Management <a href="https://github.com/topics/revenue-management" target="blank">#RevenueManagement</a>
 - 📝 I need to find a place to regularly write articles on
 - 💬 Ask me about **Data Science & Aviation**
