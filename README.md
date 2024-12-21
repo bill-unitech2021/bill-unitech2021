@@ -42,7 +42,7 @@ Jiahong</a></h1>
 
 | Topic                                              | Summary                                                                                                                                      |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [~~Data Science Portoflio~~]                       | My data science skill-based portfolio                                                                                                        |
+| [~~Data Science Portoflio~~]                       | My data science skill-based portfolio: **1. Data Visualization;** 2. Data Preprocessing;                                                                                                        |
 | [~~Practical Data Science Blog~~]                  | My data science blogs on Medium with friendly links so you can read them without restrictions                                                |
 | [~~Data Science Interview Questions & Answers~~]   | Data science interview questions & answers covers most of the expected questions                                                             |
 | [~~Data Science Interview Preparation Resources~~] | Resoruce to help you prepare for your coming data science interviews                                                                         |
