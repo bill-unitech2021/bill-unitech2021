@@ -60,7 +60,7 @@ Jiahong Que (阙家鸿)</a></h1>
 
 ## 📫 Reach Me
 - LinkedIn: [Jiahong Que](https://www.linkedin.com/in/jiahong-que-215428258/)
-- Email: [quejiahong@email.com]()
+- Email: [bill.qjh@gmail.com](bill.qjh@gmail.com)
 - Tech Blog: [Work in Progress]()
 
 > "Stay hungry, stay foolish. Growing with the open-source community!" 
