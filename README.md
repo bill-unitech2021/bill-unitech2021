@@ -1,39 +1,71 @@
 <h1 align="center">Hi 👋, I'm <a href="https://bill-unitech2021.github.io/Me.io/" target="blank">
-Jiahong</a></h1>
-<h3 align="center">A passionate Data Scientist from China 🇨🇳</h3>
+Jiahong Que (阙家鸿)</a></h1>
+<h3 align="center">A Data Scientist and AI engineer</h3>
 
+`Phd in Air Cargo` | `AI Engineer` | `Full Stack Developer` | `Data Scientist` | `Technical Writer`
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bill-unitech2021&label=Profile%20views&color=0e75b6&style=flat" alt="bill-unitech2021" /> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
-- 🔭 I’m currently studying at <a href="https://www.frankfurt-university.de/" target="blank">Frankfurt University of Applied Science</a> as PhD Candidate
-- 🌱 I’m currently Working on Air Cargo Logistics & Revenue Management
-- 🌱 I’m currently learning Logistics && Supplychain Management <a href="https://github.com/topics/revenue-management" target="blank">#RevenueManagement</a>
+- 🔭 I’m currently working on my Phd at <a href="https://www.frankfurt-university.de/" target="blank">Frankfurt University of Applied Science</a>
+- 🌱 I’m currently Working on Air Cargo Logistics & AiCargo
 - 📝 I need to find a place to regularly write articles on
-- 💬 Ask me about **Data Science & Aviation**
-- 📫 How to reach me **bill.qjh@gmail.com**
+- 💬 Ask me about **Data Science & Air Cargo & AI in Finance**
+- 📫 Reach me here: **bill.qjh@gmail.com**
 - 📄 I will add a personal CV page later
 
-## Connect with me:
 
-<p align="center">
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jiahong-que-215428258/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/bill-unitech2021">
-		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bill_qjh1987/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCtU_gOiBfRhC-Pi1rJ-fRUA">
-			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://google.com">
-			<img src="https://github.com/bill-unitech2021/bill-unitech2021/blob/main/icons8-resume-100.png?raw=true" ></a>
-      </div>
 
-</p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiahong-que-215428258/)
+
+## 🔧 Tech Stack & Tools
+**Core Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+**AI/ML Domains**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+**Full Stack Development**  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+## 🚀 Featured Projects
+### Computer Vision
+- [CNN-based Image Classification System]() (Tech: PyTorch + OpenCV)
+- [Real-time Object Detection Project]() (Tech: YOLOv5 + Flask Deployment)
+
+### Natural Language Processing
+- [Text Sentiment Analysis Platform]() (Tech: BERT + Django)
+- [Intelligent Q&A Chatbot]() (Tech: Transformer + Redis)
+
+## 🏆 Honors & Awards
+- 2023 China Mathematical Modeling Contest: Provincial Second Prize (Team Leader)
+- Outstanding Student Cadre @ Shenzhen University (Technical Director of Student Union)
+- Tencent Rhino-Bird Elite Training Program: Finalist Award
+
+## 📚 Academic Interests
+- Regular follower of CVPR/NeurIPS/ACL conference papers
+- Weekly paper reading notes ([Notes Repository]())
+- Passionate about Multimodal Learning and Few-shot Learning
+
+## 🌱 Currently Learning
+- Deep diving into "Deep Learning for Computer Vision"
+- Participating in Kaggle Protein Structure Prediction Competition
+- Developing personal tech blog ([Coming Soon]())
+
+## 📫 Reach Me
+- LinkedIn: [Jiahong Que](https://www.linkedin.com/in/jiahong-que-215428258/)
+- Email: [quejiahong@email.com]()
+- Tech Blog: [Work in Progress]()
+
+> "Stay hungry, stay foolish. Growing with the open-source community!" 
+
+
 
 ## You can find my projects here:
 
@@ -44,21 +76,7 @@ Jiahong</a></h1>
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Data Science Portoflio                             | My data science skill-based portfolio: **1. Data Visualization;** 2. Data Preprocessing;                                                                                                        |
 | Data Science Interview Questions & Answers         | Data science interview questions & answers covers most of the expected questions                                                             |
-| Kaggle Competitions & Projects                     | Data science interview questions & answers covers most of the expected questions                                                             |
-| [~~Practical Data Science Blog~~]                  | My data science blogs on Medium with friendly links so you can read them without restrictions                                                |
-| [~~Data Science Interview Preparation Resources~~] | Resoruce to help you prepare for your coming data science interviews                                                                         |
-| [~~Data-Science-Educational-Resoruces~~]           | Data science resources that cover all the data science theoretical and practical skills.                                                     |
-| [~~Data-Science-End-to-End-Projects~~]             | End-to-end data science projects for various data science case studies                                                                       |
-| [~~Practical Machine Learning Guide~~]             | Practicle guide for different machine learning and deep learning concepts and algorithms                                                     |
-| [~~Practical Machine Learning Tips~~]              | The practical machine learning tips I post on my social media account and the code used in the practical tips article                        |
-| [~~Stable Diffusion Crash Course~~]                | Stable diffusion code both using hugging face and implemented from scratch                                                                   |
-| [~~Practical Computer Vision In Python~~]          | Computer vision projects that cover most of the computer vision tasks such as object detection, tracking and image classification and others |
-| [~~Efficient-Python-for-Data-Scientists~~]         | How to write efficient Python for data scientists                                                                                            |
-| [~~Time Series In Python~~]                        | Time series in Python tutorials that covers most of the tasks in a time series project                                                       |
 
-## Profile views of Youssef:
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=youssefhosni&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
