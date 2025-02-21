@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://bill-unitech2021.github.io/Me.io/" target="blank">
-Jiahong Que (阙家鸿)</a></h1>
+Jiahong Que (阙佳鸿)</a></h1>
 <h3 align="center">A Data Scientist and AI engineer</h3>
 
 `Phd in Air Cargo` | `AI Engineer` | `Full Stack Developer` | `Data Scientist` | `Technical Writer`
