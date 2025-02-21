@@ -34,6 +34,7 @@ Jiahong Que (阙家鸿)</a></h1>
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
+<!--
 ## 🚀 Featured Projects
 ### Computer Vision
 - [CNN-based Image Classification System]() (Tech: PyTorch + OpenCV)
@@ -57,6 +58,8 @@ Jiahong Que (阙家鸿)</a></h1>
 - Deep diving into "Deep Learning for Computer Vision"
 - Participating in Kaggle Protein Structure Prediction Competition
 - Developing personal tech blog ([Coming Soon]())
+
+-->
 
 ## 📫 Reach Me
 - LinkedIn: [Jiahong Que](https://www.linkedin.com/in/jiahong-que-215428258/)
